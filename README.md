@@ -1,3 +1,3 @@
 # Demo
 
-Trying out Git from tutorial.
+Trying out Git from tutorial!
